@@ -1,0 +1,48 @@
+# Ignore Visual Studio temporary files, build results, and
+# common files to ignore in a .NET Core project
+
+# User-specific files
+.vscode/
+.vs/
+*.user
+*.rsuser
+*.suo
+
+# Auto-generated files
+*.g.cs
+*.g.i.cs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Mono Auto Generated Files
+mono_crash.*
